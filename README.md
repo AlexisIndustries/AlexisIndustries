@@ -28,8 +28,6 @@
       <a href="https://spring.io/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
       </a>
-      <a href="https://spring.io/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-      </a>
+    
   </div>
 </div>
