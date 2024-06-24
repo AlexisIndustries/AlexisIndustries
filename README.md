@@ -16,7 +16,7 @@
   </a>
   </div>
   <h3>Pet projects</h3>
-      <a href="https://stydy-cards.vercel.app" target="_blank">
+      <a href="https://github.com/AlexisIndustries/MechatronicDevicesCatalog" target="_blank">
         <span>Mechatronic Device Catalog</span>
       </a>
   <h3 align="center">Stack</h3>
