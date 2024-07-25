@@ -19,6 +19,12 @@
       <a href="https://github.com/AlexisIndustries/MechatronicDevicesCatalog" target="_blank">
         <span>Mechatronic Device Catalog</span>
       </a>
+      <a href="https://github.com/AlexisIndustries/krainet-timetracker-project" target="_blank">
+        <span>Time Tracker Project for Krainet</span>
+      </a>
+      <a href="https://github.com/AlexisIndustries/clevertec-check-project" target="_blank">
+        <span>Check Service Project for Clevertec</span>
+      </a>
   <h3 align="center">Stack</h3>
   <div>
     <div>
@@ -26,8 +32,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
       </a> 
       <a href="https://spring.io/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
       </a>
-    
+      <a href="https://liquibase.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original.svg" title="Liquibase" alt="Liquibase" width="50" height="50"/>&nbsp;
+      </a>
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+      </a>
   </div>
 </div>
