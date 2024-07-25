@@ -16,15 +16,21 @@
   </a>
   </div>
   <h3>Pet projects</h3>
+  <p>
       <a href="https://github.com/AlexisIndustries/MechatronicDevicesCatalog" target="_blank">
         <span>Mechatronic Device Catalog</span>
       </a>
+    </p>
+    <p>
       <a href="https://github.com/AlexisIndustries/krainet-timetracker-project" target="_blank">
         <span>Time Tracker Project for Krainet</span>
       </a>
+      </p>
+      <p>
       <a href="https://github.com/AlexisIndustries/clevertec-check-project" target="_blank">
         <span>Check Service Project for Clevertec</span>
       </a>
+        </p>
   <h3 align="center">Stack</h3>
   <div>
     <div>
@@ -37,6 +43,7 @@
       <a href="https://liquibase.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original.svg" title="Liquibase" alt="Liquibase" width="50" height="50"/>&nbsp;
       </a>
+      <p>
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
       </a>
